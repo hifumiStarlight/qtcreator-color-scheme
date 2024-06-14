@@ -25,7 +25,7 @@
   <style name="Field" foreground="#e1cbff"/>
   <style name="Static" foreground="#ffb86c"/>
   <style name="VirtualMethod" foreground="#f67d92" italic="true"/>
-  <style name="Function" foreground="#ea899a"/>
+  <style name="Function" foreground="#ff8299"/>
   <style name="Keyword" foreground="#ff79c6" bold="true"/>
   <style name="PrimitiveType" foreground="#e598e5" italic="true"/>
   <style name="Operator" foreground="#ffffff"/>
